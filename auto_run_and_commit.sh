@@ -20,5 +20,5 @@ while true; do
   fi
 
   echo "==> Sleeping 60 seconds..."
-  sleep 60
+  sleep 30
 done
