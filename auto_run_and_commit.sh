@@ -19,6 +19,6 @@ while true; do
     echo "==> No changes, skip commit."
   fi
 
-  echo "==> Sleeping 60 seconds..."
-  sleep 60
+  echo "==> Sleeping 1800 seconds..."
+  sleep 1800
 done
