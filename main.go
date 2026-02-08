@@ -11,7 +11,6 @@ func download(url, file string) error {
 	if err != nil {
 		return err
 	}
-
 	defer resp.Body.Close()
 
 	out, err := os.Create(file)
